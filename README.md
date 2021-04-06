@@ -1,1 +1,1 @@
-Hey 👋, I'm a computer science student at the Universidade Federal da Bahia (UFBA); I have base in c/c++ and java. I'm an enthusiast in mobile and web development and currently work/studying in Flutter/Dart and React.
+Hey 👋, I'm a computer science student at the Universidade Federal da Bahia (UFBA); I have base in c/c++ and java. I'm an enthusiast in mobile and web development and currently work/study Flutter/Dart and React.
